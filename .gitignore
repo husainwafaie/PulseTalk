@@ -1,0 +1,9 @@
+/target/
+/bin/
+/.class
+/.log
+/.idea/
+/.gradle/
+/build/
+/out/
+*.iml
