@@ -21,7 +21,11 @@
    mvn exec:java
    ```
 
-## License
+## 🏃 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📰 License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
