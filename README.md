@@ -2,7 +2,7 @@
 
 **PulseTalk** is a real-time chat application built in Java, using JavaFX for the client interface and Java sockets for communication.
 
-## 🌟 Features:
+## 🔮 Features:
 - Real-time messaging
 - Private and group chats
 - Message history (coming soon)
@@ -21,7 +21,11 @@
    mvn exec:java
    ```
 
-## License
+## 🏃 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📰 License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
 
