@@ -1,6 +1,8 @@
+package src;
 import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
+
 
 public class ChatServer {
     private static final int PORT = 1234; // main port for now
